@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "More Creative Items",
+    "version": "0.8.1",
+    "short_description": "More blocks and items in the creative mode inventory",
+    "full_description": "More blocks and items in the creative mode inventory",
+    "thumbnail": "",
+    "file": "data\/0.8.1\/More Creative Items\/More Creative Items.js",
+    "date": "2025-12-11 19:09",
+    "type": "mods",
+    "mod_type": "Script",
+    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?attachments\/1146\/",
+    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/466\/",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+    }
+  }
+]
