@@ -5,15 +5,32 @@
     "short_description": "More blocks and items in the creative mode inventory",
     "full_description": "More blocks and items in the creative mode inventory",
     "thumbnail": "",
-    "file": "data\/0.8.1\/More Creative Items\/More Creative Items.js",
+    "file": "data/0.8.1/More Creative Items/More Creative Items.js",
     "date": "2025-12-11 19:09",
     "type": "mods",
     "mod_type": "Script",
-    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?attachments\/1146\/",
-    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/466\/",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/1146/",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/466/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    }
+  },
+  {
+    "title": "Glasses",
+    "version": "0.11.0",
+    "short_description": "Glasses mod will give you the opportunity to look at the world in a new way. The mod adds a total of 21 pairs of glasses.",
+    "full_description": "**Glasses** mod will give you the opportunity to look at the world in a new way. The mod adds a total of 21 pairs of glasses.\n\n**Crafting Recipes and Item IDs:**\nBlack Glasses (500) – 8 ink sacs + 1 glasses\nGlasses (501) – 7 coal + 2 glass blocks\n3D Glasses (502) – 3 roses + 2 coal + 3 lapis lazuli + 1 glasses\nGreen Glasses (503) – 8 lime dye + 1 glasses\nBlue Glasses (504) – 8 lapis lazuli + 1 glasses\nYellow Glasses (505) – 8 dandelions + 1 glasses\nRed Glasses (506) – 8 roses + 1 glasses\nPurple Glasses (507) – 8 purple dye + 1 glasses\nOrange Glasses (508) – 8 orange dye + 1 glasses\nBrown Glasses (509) – 8 cocoa beans + 1 glasses\nPink Glasses (510) – 8 pink dye + 1 glasses\nDark Green Glasses (511) – 8 cacti + 1 glasses\nGold Glasses (512) – 7 gold ingots + 2 glass blocks\nDiamond Glasses (513) – 7 diamonds + 2 glass blocks\nIron Glasses (514) – 7 iron ingots + 2 glass blocks\nEmerald Glasses (515) – 7 emeralds + 2 glass blocks\nLapis Lazuli Glasses (516) – 7 lapis lazuli + 2 glass blocks\nRedstone Glasses (517) – 7 redstone + 2 glass blocks\nPokémon Glasses (518) – 3 redstone + 3 iron ingots + 1 coal + 2 glass blocks\nMoney Glasses (519) – 3 lime dye + 3 cactus green + 1 glasses + 2 coal\nScouter (520) – 3 lime dye + 1 glass pane + 5 iron ingots\n\n**How to Install Glasses:**\n1. Download and install Block Launcher.\n2. Download and extract the mod file.\n3. Launch Block Launcher and tap the icon at the top of the screen.\n4. Tap “BL Settings” → “Texture Pack” → “Import” → “Phone Storage” and select the mod’s texture pack.\n5. Return to the main Block Launcher screen and tap the icon at the top of the screen.\n6. Tap “ModPE Script” → “Add” → “Phone Storage” and select the mod’s JS file.\n\nDone.",
+    "thumbnail": "data/0.11.0/Glasses/thumb_1766604269598.jpg",
+    "file": "data/0.11.0/Glasses/Glasses.zip",
+    "date": "2025-12-24 21:24",
+    "type": "mods",
+    "mod_type": "PTPatch",
+    "alt_link": "https://mcpe-inside.ru/download/21/",
+    "original_link": "https://mcpe-inside.ru/mods/17-glasses.html",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     }
   }
 ]
